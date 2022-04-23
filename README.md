@@ -1,4 +1,4 @@
-### Hi there 👋 ,  I'm AYESHA BALOCH
+### Hi there 👋 ,  I'm AYESHA
 
 <div align="center">
 <p>
