@@ -100,16 +100,17 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayeshabaloch123&layout=compact&langs_count=8&theme=radical"/>
  </div>
  
+ <!--Snake Animation!-->
+
+![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
+
+ 
  <!--Contribution Graph Section!-->
 ### 📈 Contribution Graph
  
    <br/>
-<a href="https://github.com/ayeshabaloch123"><img alt="Ayesha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ayeshabaloch123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ayeshabaloch123"> src="https://activity-graph.herokuapp.com/graph?username=ayeshabaloch123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color0000FF&width=500&lines=This+is+my+contribution+graph..">
 
-<!--Snake Animation!-->
-### 🐍 A Snake Eating Away my Contributions
-
-![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
 
